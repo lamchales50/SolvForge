@@ -1,0 +1,5 @@
+SolvForge v13
+Windows x64 portable release
+Build date: 2026-08-28
+
+Start here: SolvForge-GUI.cmd

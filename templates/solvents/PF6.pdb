@@ -1,0 +1,9 @@
+REMARK PF6- coarse initial geometry; use force-field-specific charges and parameters
+HETATM    1  P   PF6 A   1       0.000   0.000   0.000  1.00  0.00           P
+HETATM    2  F1  PF6 A   1       1.580   0.000   0.000  1.00  0.00           F
+HETATM    3  F2  PF6 A   1      -1.580   0.000   0.000  1.00  0.00           F
+HETATM    4  F3  PF6 A   1       0.000   1.580   0.000  1.00  0.00           F
+HETATM    5  F4  PF6 A   1       0.000  -1.580   0.000  1.00  0.00           F
+HETATM    6  F5  PF6 A   1       0.000   0.000   1.580  1.00  0.00           F
+HETATM    7  F6  PF6 A   1       0.000   0.000  -1.580  1.00  0.00           F
+END

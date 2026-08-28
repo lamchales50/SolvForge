@@ -1,0 +1,5 @@
+# aqueous zinc-ion battery electrolyte: approximately 1 M ZnSO4 in water
+# 110 H2O + 2 Zn2+ + 2 SO4^2- corresponds to about 1 salt pair per 55 water molecules
+water_tip3p            0.96491228
+Zn                     0.01754386
+SO4                    0.01754386

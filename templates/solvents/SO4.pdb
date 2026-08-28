@@ -1,0 +1,7 @@
+REMARK SO4 2- coarse tetrahedral geometry; assign charge/parameters in the selected force field
+HETATM    1  S   SO4 A   1       0.000   0.000   0.000  1.00  0.00           S
+HETATM    2  O1  SO4 A   1       0.837   0.837   0.837  1.00  0.00           O
+HETATM    3  O2  SO4 A   1       0.837  -0.837  -0.837  1.00  0.00           O
+HETATM    4  O3  SO4 A   1      -0.837   0.837  -0.837  1.00  0.00           O
+HETATM    5  O4  SO4 A   1      -0.837  -0.837   0.837  1.00  0.00           O
+END

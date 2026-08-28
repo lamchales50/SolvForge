@@ -1,0 +1,6 @@
+# conventional lithium-ion electrolyte: approximately 1 M LiPF6 in EC:DMC = 1:1
+# demo composition: 54 EC + 54 DMC + 2 Li+ + 2 PF6-
+ethylene_carbonate     0.48214286
+dimethyl_carbonate     0.48214286
+Li                     0.01785714
+PF6                    0.01785714

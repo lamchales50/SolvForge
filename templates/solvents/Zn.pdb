@@ -1,0 +1,3 @@
+REMARK Zn2+ ion for aqueous zinc sulfate electrolyte; assign charge/parameters in the selected force field
+HETATM    1 ZN   ZN  A   1       0.000   0.000   0.000  1.00  0.00          Zn
+END

@@ -1,0 +1,7 @@
+REMARK ClO4- coarse tetrahedral initial geometry
+HETATM    1  CL  CLO A   1       0.000   0.000   0.000  1.00  0.00          Cl
+HETATM    2  O1  CLO A   1       0.832   0.832   0.832  1.00  0.00           O
+HETATM    3  O2  CLO A   1      -0.832  -0.832   0.832  1.00  0.00           O
+HETATM    4  O3  CLO A   1      -0.832   0.832  -0.832  1.00  0.00           O
+HETATM    5  O4  CLO A   1       0.832  -0.832  -0.832  1.00  0.00           O
+END

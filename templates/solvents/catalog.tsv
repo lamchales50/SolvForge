@@ -1,0 +1,33 @@
+name\tfile\tcategory\tnote
+water_tip3p\twater_tip3p.pdb\twater\t3-site physical atoms; use TIP3P force-field parameters
+water_spc\twater_spc.pdb\twater\t3-site physical atoms
+water_spce\twater_spce.pdb\twater\t3-site physical atoms; use SPC/E parameters
+water_tip4pew\twater_tip4pew.pdb\twater\texplicit MW virtual site in PDB/GRO
+water_tip5p\twater_tip5p.pdb\twater\texplicit LP1/LP2 virtual sites in PDB/GRO
+water_opc\twater_opc.pdb\twater\texplicit MW virtual site in PDB/GRO
+ethylene_carbonate\tethylene_carbonate.pdb\telectrolyte_solvent\tEC
+propylene_carbonate\tpropylene_carbonate.pdb\telectrolyte_solvent\tPC
+dimethyl_carbonate\tdimethyl_carbonate.pdb\telectrolyte_solvent\tDMC
+diethyl_carbonate\tdiethyl_carbonate.pdb\telectrolyte_solvent\tDEC
+ethyl_methyl_carbonate\tethyl_methyl_carbonate.pdb\telectrolyte_solvent\tEMC
+acetonitrile\tacetonitrile.pdb\telectrolyte_solvent\tACN
+dimethoxyethane\tdimethoxyethane.pdb\telectrolyte_solvent\tDME
+tetrahydrofuran\ttetrahydrofuran.pdb\telectrolyte_solvent\tTHF
+dimethyl_sulfoxide\tdimethyl_sulfoxide.pdb\telectrolyte_solvent\tDMSO
+dimethylformamide\tdimethylformamide.pdb\telectrolyte_solvent\tDMF
+methanol\tmethanol.pdb\tcommon_solvent\tMeOH
+ethanol\tethanol.pdb\tcommon_solvent\tEtOH
+Li\tLi.pdb\tcation\tLi+
+Na\tNa.pdb\tcation\tNa+
+K\tK.pdb\tcation\tK+
+Mg\tMg.pdb\tcation\tMg2+
+Ca\tCa.pdb\tcation\tCa2+
+Cl\tCl.pdb\tanion\tCl-
+F\tF.pdb\tanion\tF-
+PF6\tPF6.pdb\tanion\tPF6-; coarse geometry
+SO4\tSO4.pdb\tanion\tSO4^2-; coarse tetrahedral geometry
+Zn\tZn.pdb\tcation\tZn2+ ion
+BF4\tBF4.pdb\tanion\tBF4-; coarse geometry
+ClO4\tClO4.pdb\tanion\tClO4-; coarse geometry
+FSI\tFSI.pdb\tanion\tFSI-; coarse geometry
+TFSI\tTFSI.pdb\tanion\tTFSI-; coarse geometry
